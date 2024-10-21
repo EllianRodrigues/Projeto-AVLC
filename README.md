@@ -1,6 +1,6 @@
-# Projeto de Vetores em Plano Cartesiano
+# Projeto de AVLC - Vetores em Plano Cartesiano
 
-Este é um projeto simples utilizando **Tkinter** e **NumPy** para manipular vetores no plano cartesiano. O aplicativo permite ao usuário inserir dois vetores e visualizar suas somas, subtrações e projeções vetoriais.
+Este é um projeto simples utilizando **Tkinter** e **NumPy** para manipular vetores no plano cartesiano.
 
 ## Funcionalidades
 
