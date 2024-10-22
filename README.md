@@ -24,5 +24,5 @@ Este é um projeto simples utilizando **Tkinter** e **NumPy** para manipular vet
 
 ## Para iniciar
 
-Basta abrir o terminal na pasta do projeto e digitar **python main.py**
+Basta abrir o terminal na pasta do projeto e digitar `python main.py`
 
